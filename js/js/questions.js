@@ -3,62 +3,58 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "O que matou o willian afton?",
+answer: "A gotera",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"As crianças",
+"A gotera",
+"O Ballon boy",
+"O Fred"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Em que ano ocorreu a morte da criança que possue o golden fred?",
+answer: "1983",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"1995",
+"1987",
+"1983",
+"1980"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: qual a raiz quadrada de 9?",
+answer: "3",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"4",
+"3",
+"5",
+"2"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
-answer: "12",
+question: "quanto tempo dura uma noite no ucn(ultimate custon night)?",
+answer: "4,5min",
 options: [
-"12",
-"11",
-"14",
-"13"
+"4,5min",
+"4min",
+"8min",
+"7,5min"
 ]
 
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: quantas almas tem dentro do golden fred?",
+answer: "2",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"1",
+"2",
+"3",
+"4"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
