@@ -8,7 +8,7 @@ let questions = [
       "Albert Einstein",
       "Marie Curiee",
       "Stephen Hawking",
-      "Linus Pauling"
+      "Linus Pauling",
     ]
   },
   {
@@ -19,7 +19,7 @@ let questions = [
       "Timor Lestet",
       "Montenegro",
       "Sudão do Sul",
-      "Kosovo"
+      "Kosovo",
     ]
   },
   {
@@ -30,7 +30,7 @@ let questions = [
       "Equinócio de outono",
       "Solstício de inverno",
       "Solstício de verão",
-      "Solstício de outono"
+      "Solstício de outono",
     ]
   },
   {
@@ -41,7 +41,7 @@ let questions = [
       "12",
       "11",
       "14",
-      "13"
+      "13",
     ]
   },
   {
@@ -52,7 +52,7 @@ let questions = [
       "Saturno e Júpiter",
       "Vênus e Urano",
       "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Mercúrio e Saturno",
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
